@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 Deplyment managed by POLIS
 
+## Remote
 
 Updated on Sunday
 
