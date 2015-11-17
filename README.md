@@ -14,11 +14,11 @@ Deplyment managed by POLIS
 
 Remote section added by POLIS on Monday.
 
-<<<<<<< HEAD
+
 ## Copyright
 =======
 Doing branch related changes.
->>>>>>> newbranch
+
 
 Updated on Sunday
 
