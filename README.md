@@ -12,6 +12,8 @@ Deplyment managed by POLIS
 
 ## Remote
 
+Remote section added by POLIS on Monday.
+
 Updated on Sunday
 
 updated by POLIS
